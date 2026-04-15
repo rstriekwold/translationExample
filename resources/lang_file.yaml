@@ -1,0 +1,49 @@
+english:
+    app:
+        sales: Sales
+        profile: View profile
+    tabs:
+        leads: Leads
+    leads:
+        new_leads: New
+    new_lead:
+        salutation: Salutation
+        first_name: First Name
+        last_name: Last Name
+        company: Company
+        lead_status: Lead Status
+    profile:
+        settings: Settings
+        language_and_time_zone: Language & Time Zone
+        language: Language
+        logout: Logout
+    buttons:
+        save: Save
+    home: Home
+    modal:
+        new_lead: New Lead
+
+nederlands:
+    app:
+        sales: Verkoop
+        profile: Profiel weergeven
+    tabs:
+        leads: Leads
+    leads:
+        new_leads: Nieuw
+    new_lead:
+        salutation: Aanhef
+        first_name: Voornaam
+        last_name: Achternaam
+        company: Bedrijf
+        lead_status: Leadstatus
+    profile:
+        settings: Instellingen
+        language_and_time_zone: Taal en tijdzone
+        language: Taal
+        logout: Afmelden
+    buttons:
+        save: Opslaan
+    home: Hoofdpagina
+    modal:
+        new_lead: New Lead
